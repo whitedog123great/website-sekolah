@@ -39,7 +39,7 @@
         <div class="grid md:grid-cols-3 gap-12 items-center">
             <div class="md:col-span-1 text-center bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
                 <div class="w-40 h-40 bg-gray-300 rounded-full mx-auto mb-4 border-4 border-emerald-500 overflow-hidden flex items-center justify-center text-gray-500">[ Foto Kepsek ]</div>
-                <h3 class="text-xl font-bold">Nama Kepala Sekolah, M.Pd.</h3>
+                <h3 class="text-xl font-bold">MG. Ika Ayuningsih, S.P., S.Pd.</h3>
                 <p class="text-emerald-600 font-medium text-sm">Kepala Sekolah</p>
             </div>
             <div class="md:col-span-2">
